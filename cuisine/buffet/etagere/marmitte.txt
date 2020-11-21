@@ -1,2 +1,2 @@
 Cette marmitte semble trop étanche. Il faut une perceuse pour faire quelques trous au fond !
-- perceuse : ""
+- perceuse : "../../../garage/etagere/perceuse.txt"
