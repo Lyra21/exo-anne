@@ -1,6 +1,6 @@
 Une assiette toute seule ne sera pas très utile. Il faut quelques objets en plus :
-- un couteau : ""
-- une fourchette : ""
+- un couteau : "../buffet/tiroir/couteau.txt"
+- une fourchette : "../buffet/tiroir/fourchette.txt"
 
 Maintenant, la marmitte est trouée, ce qui se révèle finalement moins pratique que prévu. Il faudrait donc une poele :
-- poele : ""
+- poele : "../buffet/etagere/poele.txt"
