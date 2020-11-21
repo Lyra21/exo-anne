@@ -1,7 +1,7 @@
 Anne cherche plusieurs objets :
 - sa voiture : "garage/voiture.txt"
 - une marmitte : "cuisine/buffet/etagere/marmitte.txt"
-- la télécommande de la TV : ""
+- la télécommande de la TV : "salon/television/telecommande.txt"
 - une assiette pour le repas de midi : ""
 --------------------------------------------------------------------
 Objectif de l'exercice : indiquer dans les guillemets les chemins de fichier permettant d'accéder à chacun de ces objets.
