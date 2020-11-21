@@ -3,6 +3,6 @@ Anne cherche plusieurs objets :
 - une marmitte : ""
 - la télécommande de la TV : ""
 - une assiette pour le repas de midi : ""
-
+--------------------------------------------------------------------
 Objectif de l'exercice : indiquer dans les guillemets les chemins de fichier permettant d'accéder à chacun de ces objets.
 Pour chacun d'entre eux, ouvrir le fichier texte correspondant et remplir les objectifs demandés.
