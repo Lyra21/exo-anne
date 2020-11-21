@@ -1,0 +1,2 @@
+La voiture ne s'ouvre pas ! Il faut un marteau pour péter la vitre. Indiquer son chemin de fichier entre les guillemets.
+- marteau : ""
