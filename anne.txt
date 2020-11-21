@@ -1,6 +1,6 @@
 Anne cherche plusieurs objets :
 - sa voiture : "garage/voiture.txt"
-- une marmitte : ""
+- une marmitte : "cuisine/buffet/etagere/marmitte.txt"
 - la télécommande de la TV : ""
 - une assiette pour le repas de midi : ""
 --------------------------------------------------------------------
